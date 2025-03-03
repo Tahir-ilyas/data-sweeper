@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 from io import BytesIO
-import emoji
+
 
 st.set_page_config(page_title="Data Sweeper",layout='wide')
 
